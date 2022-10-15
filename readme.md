@@ -1,3 +1,3 @@
-# git and GitHab Course
+# Git and GitHab Course
 
 Course is very well
